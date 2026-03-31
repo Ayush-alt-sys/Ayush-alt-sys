@@ -1,4 +1,3 @@
-## Hi Techies!
 ## GitHub Stats
 
 <p align="center">
