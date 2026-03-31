@@ -5,6 +5,6 @@
   <img src="https://github-readme-stats-zeta-ten-65.vercel.app/api/top-langs/?username=Ayush-alt-sys&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&title_color=4c8eda&langs_count=6" height="160" />
 </p>
 
-## Connect
+### Connect
 
 [X](https://x.com/swasthik319) • [Portfolio](https://swasthk.vercel.app)
