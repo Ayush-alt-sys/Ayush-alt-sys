@@ -7,4 +7,4 @@
 
 ### Connect
 
-[X](https://x.com/swasthik319) • [Portfolio](https://swasthk.vercel.app)
+[X](https://x.com/) • [Portfolio](https://.vercel.app)
